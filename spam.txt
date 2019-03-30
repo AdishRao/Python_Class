@@ -1,0 +1,10 @@
+X-DSPAM-confidence:0.1
+X-DSPAM-confidence:0.2
+X-DSPAM-confidence:0.3
+hello
+world
+no 
+spam
+here
+X-DSPAM-confidence:0.4
+X-DSPAM-confidence:0.5
